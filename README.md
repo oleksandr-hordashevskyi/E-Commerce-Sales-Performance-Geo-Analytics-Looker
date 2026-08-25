@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales Performance & Geo-Analytics Dashboard
 
-[![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-Interactive_Dashboard-4285F4?logo=google)]([https://datastudio.google.com/s/vKfrVKzK0l8](https://datastudio.google.com/reporting/78439cf6-35f6-400d-acce-34cd073ff2e6))
+[![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-Interactive_Dashboard-4285F4?logo=google)]([![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-Interactive_Dashboard-4285F4?logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/6e582128-858d-401e-aa9a-c7acd8dd959f))
 [![SQL Extraction](https://img.shields.io/badge/PostgreSQL-Data_Extraction-336791?logo=postgresql)](sql/ecommerce_sales_extraction.sql)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
